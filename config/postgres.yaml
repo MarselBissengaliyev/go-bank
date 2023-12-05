@@ -1,0 +1,6 @@
+username: root
+password: secret
+dbname: bank
+port: "5433"
+host: localhost
+sslmode: disable
